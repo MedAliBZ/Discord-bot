@@ -1,0 +1,19 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "repository": "https://github.com/MohamedAliBouzaiene/Discord-bot",
+  "description": "A discord bot that have so many cool features!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohamed Ali Bouzaiene",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "opusscript": "0.0.7",
+    "ytdl-core": "^4.2.1"
+  }
+}
