@@ -15,7 +15,6 @@ module.exports = {
                 .then(res => { return res.json() })
                 .then(data => {
                     message.channel.send(data.preview[data.preview.length-1]);
-
                 })
         }
     }
